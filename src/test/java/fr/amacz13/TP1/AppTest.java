@@ -41,11 +41,13 @@ public class AppTest {
         Chat c1 = new Chat("Caramel");
         Chat c2 = new Chat("Fleur de feu");
         Chien c3 = new Chien("Framboise");
+        Chien c4 = new Chien("Fraise");
         
         Zoo zoo = new Zoo();
         zoo.nouvelAnimal(c1);
         zoo.nouvelAnimal(c2);
         zoo.nouvelAnimal(c3);
+        zoo.nouvelAnimal(c4);
         
         for (Secteur s : zoo.secteursAnimaux) {
         	if (s.getEspece().equals(Espece.CHIEN)) {
