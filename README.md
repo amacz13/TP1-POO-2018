@@ -1,1 +1,1 @@
-# TP1-POO-2018 ![Build](https://travis-ci.com/amacz13/TP1-POO-2018.svg?token=q7h2JprvMFM5yffbyuyJ&branch=master) ![Docs](https://readthedocs.org/projects/tp1-poo-2018/badge/?version=latest)
+# TP1-POO-2018 ![Build](https://travis-ci.com/amacz13/TP1-POO-2018.svg?token=q7h2JprvMFM5yffbyuyJ&branch=master) ![Docs](https://readthedocs.org/projects/tp1-poo-2018/badge/?version=latest) [![Maintainability](https://api.codeclimate.com/v1/badges/efe91acb8381ee5ac4d4/maintainability)](https://codeclimate.com/github/amacz13/TP1-POO-2018/maintainability)
