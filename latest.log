@@ -1,0 +1,24 @@
+2018-20-22 16:20:41.971 [main] INFO  fr.amacz13.TP1.App - DEBUT DES LOGS
+2018-20-22 16:20:41.971 [main] DEBUG fr.amacz13.TP1.App - Caramel
+2018-20-22 16:20:41.971 [main] WARN  fr.amacz13.TP1.App - Fleur de feu
+2018-20-22 16:20:41.971 [main] ERROR fr.amacz13.TP1.App - Framboise
+2018-20-22 16:20:41.971 [main] FATAL fr.amacz13.TP1.App - END OF LOGS
+2018-22-22 16:22:45.131 [main] ERROR fr.amacz13.TP1.App - Framboise
+2018-22-22 16:22:45.136 [main] FATAL fr.amacz13.TP1.App - END OF LOGS
+2018-23-22 16:23:27.018 [main] ERROR fr.amacz13.TP1.App - Framboise
+2018-23-22 16:23:27.018 [main] FATAL fr.amacz13.TP1.App - END OF LOGS
+2018-24-22 16:24:26.470 [main] ERROR fr.amacz13.TP1.App - Framboise
+2018-24-22 16:24:26.470 [main] FATAL fr.amacz13.TP1.App - END OF LOGS
+2018-24-22 16:24:29.937 [main] ERROR fr.amacz13.TP1.App - Framboise
+2018-24-22 16:24:29.946 [main] FATAL fr.amacz13.TP1.App - END OF LOGS
+2018-24-22 16:24:32.977 [main] ERROR fr.amacz13.TP1.App - Framboise
+2018-24-22 16:24:32.977 [main] FATAL fr.amacz13.TP1.App - END OF LOGS
+2018-24-22 16:24:50.327 [main] ERROR fr.amacz13.TP1.App - Framboise
+2018-24-22 16:24:50.327 [main] FATAL fr.amacz13.TP1.App - END OF LOGS
+2018-24-22 16:24:59.192 [main] ERROR fr.amacz13.TP1.App - Framboise
+2018-24-22 16:24:59.192 [main] FATAL fr.amacz13.TP1.App - END OF LOGS
+2018-25-22 16:25:22.243 [main] INFO  fr.amacz13.TP1.App - DEBUT DES LOGS
+2018-25-22 16:25:22.243 [main] DEBUG fr.amacz13.TP1.App - Caramel
+2018-25-22 16:25:22.243 [main] WARN  fr.amacz13.TP1.App - Fleur de feu
+2018-25-22 16:25:22.243 [main] ERROR fr.amacz13.TP1.App - Framboise
+2018-25-22 16:25:22.243 [main] FATAL fr.amacz13.TP1.App - END OF LOGS

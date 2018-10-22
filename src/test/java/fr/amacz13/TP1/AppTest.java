@@ -54,6 +54,8 @@ public class AppTest {
         		assertEquals(c3,s.animaux.get(0));
         	}
         }
+        
+        System.out.println(zoo.secteursAnimaux.get(0).compare(zoo.secteursAnimaux.get(0), zoo.secteursAnimaux.get(1)));
 	}
 
 }
