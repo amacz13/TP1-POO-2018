@@ -22,5 +22,7 @@ public class App
         logger.warn(c2.getNomAnimal());
         logger.error(c3.getNomAnimal());
         logger.fatal("END OF LOGS");
+        
+        //Just for push
     }
 }
